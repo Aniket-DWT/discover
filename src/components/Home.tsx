@@ -17,7 +17,7 @@ const Home = () => {
       <Box
       >
        <Typography variant="h6" gutterBottom>
-        Homeygyguyguyggtriojtioj
+        Home
       </Typography>
       <Grid container spacing={3}>
         <Grid item xs={12} sm={6}>
